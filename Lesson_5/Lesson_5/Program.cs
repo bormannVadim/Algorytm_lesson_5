@@ -47,7 +47,7 @@ namespace Lesson_5
             else
                 return "-1";
         }
-        // функция вывода определённого массива по индексу
+        // функция вывода определённого элемента по индексу
         public static string pop(int index)
         {
             if (index <= StackIndex)
